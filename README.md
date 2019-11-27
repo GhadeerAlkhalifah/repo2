@@ -2,4 +2,4 @@
 ## 
 # title : Explore US Bikeshare Date
 
-# file use :
+# file use : chicago.csv , new_york_city.csv , washington.csv , bikeshare6.py
